@@ -1,9 +1,9 @@
 # [Group name]
 
 **Group members:**
-- A
-- B
-- C
+- Nawid Rasekh
+- Mads Rasmussen  
+- Kasper Vinther
 
 **This repository contains:***
 
